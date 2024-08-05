@@ -30,18 +30,18 @@
     "@types/fs-extra": "^7.0.0",
     "@types/glob": "^7.1.1",
     "@types/node": "^12.0.2",
-    "@types/request": "^2.48.1",
+    "@types/request": "^2.48.12",
     "elm": "latest-0.19.1",
-    "elm-analyse": "^0.16.4",
+    "elm-analyse": "^0.16.5",
     "elm-format": "0.8.3",
     "elm-hot": "^1.1.4",
     "elm-hot-loader": "0.5.4",
-    "elm-live": "3.4.0",
+    "elm-live": "4.0.2",
     "elm-test": "latest-0.19.1",
     "fs-extra": "^8.0.1",
     "graphql": "^14.3.1",
-    "node-elm-compiler": "^5.0.3",
-    "parcel-bundler": "^1.12.3",
+    "node-elm-compiler": "^5.0.6",
+    "parcel-bundler": "^1.12.5",
     "typescript": "^3.4.5"
   },
   "peerDependencies": {
@@ -50,8 +50,8 @@
   "dependencies": {
     "encoding": "^0.1.12",
     "glob": "^7.1.4",
-    "graphql-request": "^1.8.2",
-    "request": "^2.88.0"
+    "graphql-request": "^7.1.0",
+    "request": "^2.88.2"
   },
   "bin": {
     "elm-graphql": "bin/elm-graphql"
